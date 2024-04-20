@@ -54,13 +54,6 @@ The app must have the following functionalities
 
 </details>
 
-<details>
-<summary>Click to view</summary>
-
-<br/>
-
-</details>
-
 ### Resources
 
 <details>
